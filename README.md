@@ -4,7 +4,7 @@
 
 This project was done according to the lectures (109-127) on udemy ["Modern React from zero to pro"](https://www.udemy.com/course/react-np/). 
 
-"challenge" is a project on React where you can choose feed and on popup to see list of your choice and add or delete some of it. 
+"challenge" is a project on React where you can choose feed and on popup to see list of your choice and add or delete something. 
 
 ### Tehnology: 
 
